@@ -110,6 +110,8 @@ Derived lengths:
    - an `Adict` (exchange per pair of neighboring subregions).
 
 ---
+MoisesZar
+moisesg.zarzoza@uclm.es
 
 ## Requirements
 
@@ -121,5 +123,4 @@ Derived lengths:
 
 ```bash
 pip install -r requirements.txt
-MoisesZar
-moisesg.zarzoza@uclm.es
+
